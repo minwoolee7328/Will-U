@@ -49,6 +49,17 @@
 
 ![Untitled](https://github.com/Team-available/Will-U/assets/131872877/a58f1684-829d-40ae-b477-4fa7d8824d93)
 
+---
+
+## 🌎시연 영상
+
+https://www.youtube.com/watch?v=hoa60nr7jFY
+
+---
+
+## 📆개발 과정
+
+https://www.notion.so/1-27cdbe0e8f734899b0b8e7159d31dc12
 
 ---
 
@@ -199,16 +210,3 @@
 - QueryDSL 사용
 
 ---
-
-## 🌎시연 영상
-
-https://www.youtube.com/watch?v=hoa60nr7jFY
-
----
-
-## 📆개발 과정
-
-https://www.notion.so/1-27cdbe0e8f734899b0b8e7159d31dc12
-
----
-
